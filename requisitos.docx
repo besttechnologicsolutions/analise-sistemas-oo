@@ -1,1 +1,8 @@
-Requisitos
+﻿Requisitos Funcionais
+
+- Controle de Estoque:
+    • Sempre que um novo tipo de produto chegar a loja, esse produto deve ser cadastrado no sistema;
+    • Sempre que mais unidades de um produto chegarem no estoque, a quantidade em estoque no sistema desse produto deve ser atualizada;
+    • Sempre que uma venda for concluída, as quantidades equivalentes dos produtos vendidos devem ser substraídas do estoque no sistema;
+    • Deve ser possível realizar buscas por um determinado produto no estoque através de código ou nome do produto;
+    • O sistema deve ser capaz de fornecer as seguintes informações dos produtos em estoque: código, nome, modelo, preço, descrição, quantidade, fornecedores.
